@@ -16,6 +16,7 @@
 
 </div>
 
+
 ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/barcelos00/barcelos00/output/github-contribution-grid-snake.svg)
 
 
