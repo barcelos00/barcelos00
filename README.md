@@ -1,7 +1,7 @@
 ## Olá! Sou o Victor Barcelos.
-- Atualmente não estou trabalhando ainda porém procuro estagios.
 - Estudo linguagens C, C++ e python inicialmente.
 - Curiosidades: Gosto muito de carros e sou muito disposto a aprender sobre coisas novas dentro da area de TI
+- Sou um estudante de Ciências da Computação. 
 ##
 
 ![barcelos00's GitHub stats](https://github-readme-stats.vercel.app/api?username=barcelos00&theme=dark&show_icons=true)
