@@ -1,5 +1,5 @@
 ## Olá! Sou o Victor Barcelos.
-- Estudo linguagens C, C++ e python inicialmente.
+- Estudo linguagens C, C++, python, HTML e CSS.
 - Curiosidades: Gosto muito de carros e sou muito disposto a aprender sobre coisas novas dentro da area de TI
 - Sou um estudante de Ciências da Computação. 
 ##
