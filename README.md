@@ -4,7 +4,6 @@
 - Sou um estudante de Ciências da Computação. 
 ##
 
-##
   <div> 
      <a href="https://www.linkedin.com/in/victor-barcelos-1381ba17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href="https://mail.google.com/mail/?view=cm&to=victorsantosbarcelos@gmail.com" target="_blank">
@@ -15,7 +14,3 @@
 
 </div>
 
-
-
-
-![WhatsApp Image 2025-05-09 at 14 05 51](https://github.com/user-attachments/assets/53a6d469-5876-4f15-aaef-1e81ca0edb75)
