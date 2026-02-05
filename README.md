@@ -4,7 +4,6 @@
 - Sou um estudante de Ciências da Computação. 
 ##
 
-![barcelos00's GitHub stats](https://github-readme-stats.vercel.app/api?username=barcelos00&theme=dark&show_icons=true)
 ##
   <div> 
      <a href="https://www.linkedin.com/in/victor-barcelos-1381ba17b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -16,8 +15,6 @@
 
 </div>
 
-
-![GitHub contribution grid snake animation](https://raw.githubusercontent.com/barcelos00/barcelos00/output/github-contribution-grid-snake.svg)
 
 
 
