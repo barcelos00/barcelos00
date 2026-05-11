@@ -53,6 +53,8 @@
 <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
 <a href="#"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white"/></a>
+</div>
+
 - Tendo o foco em HTML, CSS e JS (curso no Senac).
 - Cibersegurança.
 - Redes.
