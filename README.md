@@ -1,12 +1,19 @@
+
+<div align="center">
+
 <h1 align="center">Olá! Eu sou o Victor Barcelos</h1>
 
-<p align="center">
-  Estudante de Ciência da Computação — 3º semestre  
+  <p>
+    <strong>Estudante de Ciência da Computação | Apaixonado por Tecnologia, IA e Automação</strong><br>
+    Explorando o universo da programação, construindo soluções inteligentes e automatizando o que for possível.
+  </p>
   <br>
-  Apaixonado por tecnologia, programação e evolução constante!
-</p>
 
----
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=27F5EB&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Apaixonado+por+Inteligência+Artificial;Automação+é+a+minha+paixão;Fascinado+por+IA+e+n8n;Sempre+aprendendo+algo+novo;Vamos+criar+coisas+inteligentes%3F)](https://git.io/typing-svg)
+
+</div>
+
+
 
 ## Sobre Mim
 
@@ -17,9 +24,9 @@
 - Sou um estudante de Ciências da Computação.
 - Conhecimentos basicos em Manutenção de Computadores, Sistemas Operacionais e outros.
 
----
 
-## 📬 Meios de Contato
+
+## Meios de Contato
 
 <div align="center">
 
@@ -36,9 +43,9 @@
 </div>
 </div>
 
----
 
-## 🧑‍💻 Linguagens
+
+## Linguagens
 
 <div align="center">
 
@@ -50,5 +57,5 @@
 
 </div>
 
----
+
 
