@@ -14,7 +14,8 @@
 - Aprendendo: **Python, HTML, CSS, JavaScript, C#, .NET, MySQL e Power BI**.
 - Meta: Na Busca de ser desenvolvedor full-stack. Com o foco de sempre aprender mais sobre este mundo.
 - Curiosidades: Gosto muito de carros e sou muito disposto a aprender sobre coisas novas dentro da area de TI.
-- Sou um estudante de Ciências da Computação. 
+- Sou um estudante de Ciências da Computação.
+- Conhecimentos basicos em Manutenção de Computadores, Sistemas Operacionais e outros.
 
 ---
 
