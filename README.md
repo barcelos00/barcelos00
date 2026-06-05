@@ -34,8 +34,10 @@
      <a href="https://www.linkedin.com/in/victor-barcelos-1381ba17b" target="_blank">
    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
-    <a<a href="https://mail.google.com/mail/?view=cm&to=victorsantosbarcelos@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://mail.google.com/mail/?view=cm&to=victorsantosbarcelos@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
   <a href="https://instagram.com/barcelos_9" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
