@@ -9,7 +9,7 @@
   </p>
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=27F5EB&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Apaixonado+por+Inteligência+Artificial;Automação+é+a+minha+paixão;Fascinado+por+IA+e+n8n;Sempre+aprendendo+algo+novo;Vamos+criar+coisas+inteligentes%3F)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=8921CF&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Apaixonado+descobrir+coisas+novas;Sempre+em+busca+de+aprender+mais;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 </div>
 
