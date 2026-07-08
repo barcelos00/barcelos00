@@ -17,7 +17,7 @@
 
 ## Sobre Mim
 
-- Atualmente no **3° semestre** da faculdade.
+- Atualmente no **4° semestre** da faculdade.
 - Aprendendo: **Python, HTML, CSS, JavaScript, React, .NET, MySQL e Power BI**.
 - Meta: Na Busca de ser desenvolvedor full-stack. Com o foco de sempre aprender mais sobre este mundo.
 - Curiosidades: Gosto muito de carros e sou muito disposto a aprender sobre coisas novas dentro da area de TI.
