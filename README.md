@@ -4,7 +4,7 @@
 <h1 align="center">Olá! Eu sou o Victor Barcelos</h1>
 
   <p>
-    <strong>Estudante de Ciência da Computação | Apaixonado por Tecnologia, IA e Automação</strong><br>
+    <strong>Ciência da Computação | Apaixonado por Tecnologia, IA e Automação</strong><br>
     Explorando o universo da programação, construindo soluções inteligentes e automatizando o que for possível.
   </p>
   <br>
@@ -17,13 +17,14 @@
 
 ## Sobre Mim
 
-- Atualmente no **4° semestre** da faculdade.
+- Atualmente no **4° semestre** da faculdade Ciências da Computação no UniCeub (em formação).
 - Aprendendo: **Python, HTML, CSS, JavaScript, React, .NET, MySQL e Power BI**.
 - Meta: Na Busca de ser desenvolvedor full-stack. Com o foco de sempre aprender mais sobre este mundo.
 - Curiosidades: Sou muito disposto a aprender sobre coisas novas dentro da area de TI.
-- Ciências da Computação.
-- Gestão financeira.
-- Conhecimentos basicos em Manutenção de Computadores, Sistemas Operacionais e outros.
+- Gestão financeira (formado).
+- Conhecimentos em Manutenção de Computadores, Sistemas Operacionais.
+- Inglês avançado.
+  
 
 
 
