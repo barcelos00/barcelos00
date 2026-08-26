@@ -22,6 +22,7 @@
 - Meta: Na Busca de ser desenvolvedor full-stack. Com o foco de sempre aprender mais sobre este mundo.
 - Curiosidades: Sou muito disposto a aprender sobre coisas novas dentro da area de TI.
 - Gestão financeira (formado).
+- Programador Web (senac)
 - Conhecimentos em Manutenção de Computadores, Sistemas Operacionais.
 - Inglês avançado.
   
