@@ -67,14 +67,11 @@
 </div>
 
 
+
 ### 💻 Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com/barcelos00/Sintex" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=barcelos00&repo=Sintex&theme=tokyonight" alt="Repositório Sintex" />
-  </a>
-  <a href="https://github.com/barcelos00/bootcamp2" target="_blank">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=barcelos00&repo=bootcamp2&theme=tokyonight" alt="Repositório bootcamp2" />
-  </a>
-</div>
+| Projeto | Descrição | Repositório |
+| :--- | :--- | :---: |
+| 🚀 **Sintex** | Projeto desenvolvido com foco em desenvolvimento e boas práticas de programação. | [Acessar Código](https://github.com/barcelos00/Sintex) |
+| 📚 **Bootcamp 2** | Aplicações, desafios e exercícios práticos desenvolvidos durante o treinamento. | [Acessar Código](https://github.com/barcelos00/bootcamp2) |
 <br>
