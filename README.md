@@ -66,12 +66,15 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=barcelos00&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
+
 ### 💻 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-| :--- | :--- | :--- |
-| 🔗 **[Nome do Projeto 1](link-do-repositorio)** | API RESTful com autenticação JWT e documentação Swagger. | `.NET` / `C#` / `MySQL` |
-| 🔗 **[Nome do Projeto 2](link-do-repositorio)** | Aplicação web responsiva com consumo de API. | `React` / `JavaScript` |
-| 🔗 **[Nome do Projeto 3](link-do-repositorio)** | Scripts de automação e manipulação de dados. | `Python` |
-
+<div align="center">
+  <a href="https://github.com/barcelos00/Sintex" target="_blank">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=barcelos00&repo=Sintex&theme=tokyonight" alt="Repositório Sintex" />
+  </a>
+  <a href="https://github.com/barcelos00/bootcamp2" target="_blank">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=barcelos00&repo=bootcamp2&theme=tokyonight" alt="Repositório bootcamp2" />
+  </a>
+</div>
 <br>
