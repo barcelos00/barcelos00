@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, mundo! Eu sou o Victor Barcelos 👋
+# Olá, mundo! Eu sou o Victor Barcelos 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8921CF&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Full-Stack;Foco+em+.NET%2C+C%23%2C+Python+e+Web;Construindo+soluções+e+automações)](https://git.io/typing-svg)
 
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barcelos00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
@@ -68,10 +68,10 @@
 
 
 
-### 💻 Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Repositório |
 | :--- | :--- | :---: |
-| 🚀 **Sintex** | Projeto desenvolvido com foco em desenvolvimento e boas práticas de programação. | [Acessar Código](https://github.com/barcelos00/Sintex) |
-| 📚 **Bootcamp 2** | Aplicações, desafios e exercícios práticos desenvolvidos durante o treinamento. | [Acessar Código](https://github.com/barcelos00/bootcamp2) |
+| **Sintex** | Projeto desenvolvido com foco em desenvolvimento e boas práticas de programação. | [Acessar Código](https://github.com/barcelos00/Sintex) |
+| **Bootcamp 2** | Aplicações, desafios e exercícios práticos desenvolvidos durante o treinamento. | [Acessar Código](https://github.com/barcelos00/bootcamp2) |
 <br>
