@@ -2,7 +2,7 @@
 
 # Olá, mundo! Eu sou o Victor Barcelos 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8921CF&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Full-Stack;Foco+em+.NET%2C+C%23%2C+Python+e+Web;Construindo+soluções+e+automações)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=8921CF&center=true&vCenter=true&width=650&lines=Estudante+de+Ciência+da+Computação;Desenvolvedor+Full-Stack;+Python+e+Web;Construindo+soluções+e+automações)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-santos-barcelos-1381ba17b/)" target="_blank">
